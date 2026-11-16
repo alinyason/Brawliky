@@ -1,0 +1,19 @@
+{
+ "id": "7",
+ "month": "2023-11",
+ "bonds": {
+  "min_years": 3.0,
+  "max_years": 7.0
+ },
+ "liability": {
+  "amount": 750000.0,
+  "t": 3.0
+ },
+ "stocks": {
+  "skip": 2,
+  "count": 10
+ },
+ "factor": "MOEXOG",
+ "q": 0.1,
+ "spread_bp": 5
+}

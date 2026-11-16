@@ -1,0 +1,9 @@
+{
+ "type": "configure",
+ "fee_bp": 8,
+ "im_pct": 40,
+ "mm_pct": 20,
+ "liq_bp": 50,
+ "tick": 1,
+ "stp": "cancel_resting"
+}
